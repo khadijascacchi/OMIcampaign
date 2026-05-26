@@ -1,0 +1,18 @@
+[project]
+name = "omi"
+version = "0.1.0"
+description = "Macro-financial vulnerability risk flags using ECB SDW data."
+readme = "README.md"
+authors = [{ name = "Scacchi, Khadija", email = "Khadija.Scacchi@ecb.europa.eu" }]
+requires-python = ">=3.12"
+dependencies = ["mlkit", "streamlit>=1.36", "altair>=5"]
+
+[build-system]
+requires = ["uv_build>=0.10.1,<0.11.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = ["ipykernel>=7.2.0"]
+
+[tool.uv.sources]
+mlkit = { path = "../../tools/mlkit" }
