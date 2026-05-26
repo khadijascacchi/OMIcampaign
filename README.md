@@ -30,12 +30,12 @@ indicator.
 **2. Indicator drill-down** — full history of one (country, indicator) with
 amber / red threshold lines and the latest observation highlighted.
 
-![Indicator drill-down](docs/img/fig2.png)
+![Indicator drill-down](https://github.com/khadijascacchi/OMIcampaign/blob/main/docs/fig2.png)
 
 **3. Briefing** — top countries by current risk score, the indicators that
 triggered amber/red, and flag changes versus the previous observation.
 
-![Briefing](docs/img/fig3.png)
+![Briefing](https://github.com/khadijascacchi/OMIcampaign/blob/main/docs/fig3.png)
 
 ## Project layout
 
