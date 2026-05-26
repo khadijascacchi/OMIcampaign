@@ -25,7 +25,7 @@ The result is a small dashboard that prioritises **where to look**.
 **1. Country overview** — latest score per country and a flag matrix per
 indicator.
 
-![Country overview](docs/img/fig1.png)
+![Country overview](https://github.com/khadijascacchi/OMIcampaign/blob/main/docs/fig1.png)
 
 **2. Indicator drill-down** — full history of one (country, indicator) with
 amber / red threshold lines and the latest observation highlighted.
